@@ -10,5 +10,6 @@
 
   #### Attention!:
 
+> Run Main.java to play game
 > Note that this game need eclipse or IDE does not work in Notepad 
 
