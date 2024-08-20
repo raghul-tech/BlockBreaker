@@ -9,7 +9,8 @@
 - `JAVA`
 
   #### Attention!:
-
 > Run Main.java to play game
+
+#### Attention!:
 > Note that this game need eclipse or IDE does not work in Notepad 
 
