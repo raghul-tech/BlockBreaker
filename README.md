@@ -8,7 +8,7 @@
 
 - `JAVA`
 
-  #### Attention!:
+#### Attention!:
 > Run Main.java to play game
 
 #### Attention!:
