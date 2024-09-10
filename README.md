@@ -12,5 +12,5 @@
 > Run Main.java to play game
 
 #### Attention!:
-> Note that this game need eclipse or IDE does not work in Notepad 
+> Note that use java jdk 16 
 
