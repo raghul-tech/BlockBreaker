@@ -12,5 +12,5 @@
 > Run Main.java to play game
 
 #### Attention!:
-> Note that use java jdk 16 
+> Note that use updated version of java
 
